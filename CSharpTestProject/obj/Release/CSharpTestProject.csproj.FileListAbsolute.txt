@@ -1,0 +1,18 @@
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\bin\Release\CSharpTestProject.exe.config
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\bin\Release\CSharpTestProject.exe
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\bin\Release\CSharpTestProject.pdb
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.Form1.resources
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.Properties.Resources.resources
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.exe
+C:\Users\Dell\source\repos\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.pdb
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\bin\Release\Calculator.exe.config
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\bin\Release\Calculator.exe
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\bin\Release\Calculator.pdb
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.Form1.resources
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.csproj.GenerateResource.cache
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\obj\Release\CSharpTestProject.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\obj\Release\Calculator.exe
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\obj\Release\Calculator.pdb
+D:\VS PROJECTS\CSharpTestProject\CSharpTestProject\obj\Release\Calculator.Properties.Resources.resources
